@@ -30,6 +30,12 @@ Para executar esta calculadora, siga os passos abaixo:
     ```bash
     dotnet run
     ```
+## Como Executar 2.0
+
+     ```bash
+    Vá na pasta bin/Debug/net9.0 e execute o ScientificCalculator.exe
+    ```
+
 
 ## Exemplo de Uso
 
